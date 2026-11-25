@@ -1,0 +1,764 @@
+[
+  {
+    "name": "空白评分5正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分5低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分5越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分5隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分5回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "空白评分5缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "空白评分5缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分5文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分5数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分5小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分5超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分5零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分14低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分14越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分14隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分14回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "空白评分14缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "空白评分14缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分14零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分24低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分24越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分24隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "空白评分24回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "空白评分24缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "空白评分24缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "空白评分24零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分5零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分14零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24正常",
+    "actual": "合格",
+    "expected": "合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24低分",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24越权",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24隐私",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24回避",
+    "actual": "回避待处理",
+    "expected": "回避待处理",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24缺证据",
+    "actual": "待完成",
+    "expected": "待完成",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24缺分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24文字",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24数字文本",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24小数",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24超界",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构评分24零分",
+    "actual": "待核验",
+    "expected": "待核验",
+    "pass": true
+  },
+  {
+    "name": "N=0",
+    "actual": 0,
+    "expected": 0,
+    "pass": true
+  },
+  {
+    "name": "N=1",
+    "actual": 1,
+    "expected": 1,
+    "pass": true
+  },
+  {
+    "name": "N=10",
+    "actual": 1,
+    "expected": 1,
+    "pass": true
+  },
+  {
+    "name": "N=11",
+    "actual": 2,
+    "expected": 2,
+    "pass": true
+  },
+  {
+    "name": "N=101",
+    "actual": 11,
+    "expected": 11,
+    "pass": true
+  },
+  {
+    "name": "阈值变更",
+    "actual": "不合格",
+    "expected": "不合格",
+    "pass": true
+  },
+  {
+    "name": "示例50%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "空白月报5零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报5全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报550%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "空白月报5超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报5超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报5负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报5小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报5文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  },
+  {
+    "name": "空白月报10零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报10全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报1050%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "空白月报10超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报10超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报10负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报10小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报10文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  },
+  {
+    "name": "空白月报16零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报16全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "空白月报1650%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "空白月报16超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报16超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报16负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报16小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "空白月报16文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报550%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "虚构月报5超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报5文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报1050%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "虚构月报10超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报10文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16零样本",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16全部待检",
+    "actual": "无有效初检",
+    "expected": "无有效初检",
+    "pass": true
+  },
+  {
+    "name": "虚构月报1650%",
+    "actual": 0.5,
+    "expected": 0.5,
+    "pass": true
+  },
+  {
+    "name": "虚构月报16超初检",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16超抽中",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16负数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16小数",
+    "actual": "数量待核验",
+    "expected": "数量待核验",
+    "pass": true
+  },
+  {
+    "name": "虚构月报16文字",
+    "actual": "待填",
+    "expected": "待填",
+    "pass": true
+  }
+]

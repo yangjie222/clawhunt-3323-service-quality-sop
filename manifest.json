@@ -1,0 +1,27 @@
+[
+  {
+    "file": "rules.md",
+    "bytes": 10607,
+    "sha256": "1f2c065efb8fc3427da3f4aedc5f43a48940bce5b2d3a5b5414c7dc2da72f351"
+  },
+  {
+    "file": "scoring.xlsx",
+    "bytes": 16061,
+    "sha256": "37417fb882801826910f7c51549b02fa6814fe92927c0f3bb7f445005a322484"
+  },
+  {
+    "file": "monthly.xlsx",
+    "bytes": 11528,
+    "sha256": "b8828b956c820c5f9f447c56abf75545575febe66f9521c24232ed0e8f54c722"
+  },
+  {
+    "file": "verification.md",
+    "bytes": 1847,
+    "sha256": "28df6c79fce1b71ab6fdddc26c2f575cc98d8333382cf952abc1b9f9376f215e"
+  },
+  {
+    "file": "checks.json",
+    "bytes": 15196,
+    "sha256": "2dd3ef41654f8a4d8cd1baf61efec8c41a8286c498aaf137a8a460079c1c0a14"
+  }
+]
